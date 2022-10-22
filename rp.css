@@ -51,7 +51,7 @@ margin:0px;}
 .redhis span{ height:380px; }
 .redhimg{ width:30%; }
 .redhimg img{ width:100%; height:330px; object-fit:cover; clip-path: polygon(0% 0%, 100% 0%, 100% 86%, 50% 100%, 0% 86%); }
-.cadre{ position:relative; width:100%; height:330px; clip-path: polygon(0% 0%, 100% 0%, 100% 86%, 50% 100%, 0% 86%); }
+.cadre{ position:relative; width:100%; height:330px; clip-path: polygon(0% 0%, 100% 0%, 100% 86%, 50% 100%, 0% 86%); background: #000000; }
 
 /* ScÃ©narios */ 
 
