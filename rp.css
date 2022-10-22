@@ -7,10 +7,9 @@
   scrollbar-width: thin; }
 
 /* Lien */
-a:hover{ box-shadow: inset 100px 0 0 0 #54b3d6; color: white; }
-a:focus{ box-shadow: inset 100px 0 0 0 #54b3d6; color: white; }
 a:link{ color:#0000000; }
 a:visited{ color:#000000; }
+a:hover, a:focus{ border-bottom:1px; }
 
 
 /***** FICHE DE LISTE RP PAR KOALAVOLANT ********/ 
