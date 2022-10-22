@@ -7,34 +7,11 @@
   scrollbar-width: thin; }
 
 /* Lien */
-a:link{ color:#0000000; }
-a:visited{ color:#000000; }
-a:hover, a:focus{ border-bottom:1px; }
+.redpres a:link{ color:#0000000; }
+.redpres a:visited{ color:#000000; }
+.redpres a:hover{ border-bottom:1px; }
+.redpres a:focus{ border-bottom:1px; }
 
-
-/***** FICHE DE LISTE RP PAR KOALAVOLANT ********/ 
-
-.redlistrp{ width:100% margin:0 auto; }
-.redlistrp *{ box-sizing:border-box; } 
-
-.redlistimg{ width:96%; height:180px; object-fit:cover; }
-.redlistrp h1{ font-family:'Kaushan Script', cursive; font-size:20px; color:#fff; 
-  text-align:center; padding:14px; margin:0px; background:url('https://i.servimg.com/u/f30/19/45/51/53/fondbi10.jpg'); background-position:center; background-size:cover; clip-path: polygon(0% 0%, 96% 0%, 100% 50%, 96% 100%, 0% 100%); 
-  display:flex; flex-wrap:wrap; position:relative; z-index:99; font-family:'Kaushan Script', cursive; font-size:22px; line-height:24px; padding:10px; } 
-.redlistrp h1:after{ position: absolute; content: ''; z-index:7;display: block; top: 0; left: 0; height: 100%; width: 100%;  background: #A3171A;  
-  mix-blend-mode: hard-light; }
-.redlistrp h1 strong{ font-weight:normal; text-align:center; position:relative; z-index:99; }
-
-.listred{ width:96%; display:flex; justify-content:space-between; } 
-.listred span{ width:80%; display:block; padding:25px; font-family:'Lato', sans-serif; font-size:13px; line-height:17px; background-color:#dedede; } 
-.listred span a{ color:#A3171A; font-weight:bold; letter-spacing:2px; text-decoration:none; } 
-.listred div{ width:20%; background:url('https://i.servimg.com/u/f30/19/45/51/53/fondbi10.jpg'); background-position:center; background-size:cover;clip-path: polygon(0% 0%, 100% 0%, 100% 86%, 50% 100%, 0% 86%); 
-  position:relative; } 
-.listred div:after{ position: absolute; content: ''; z-index:7;display: block; top: 0; left: 0; height: 100%; width: 100%;  background: #444;  
-  mix-blend-mode: hard-light;}
-.listred h2, .listreverse h2{ position:relative; z-index:99; color:#fff; font-family:'Anton', sans-serif; font-size:15px; text-align:center; font-weight:normal; padding:30px 5px;
-margin:0px;}
-.listreverse{ flex-direction:row-reverse; margin:10px 0px;}
   
 /***** FICHE DE PRESENTATION PAR KOALAVOLANT *************/ 
 
