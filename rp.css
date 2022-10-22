@@ -61,6 +61,7 @@ margin:0px;}
 
 .redscenario .redhimg img{ height:170px; } 
 .redscenario .redflex2.redverse{ flex-direction:row-reverse; }
+.redscenario .redflex2.redverse .redhis{ margin-right:0px; margin-left:5px; }
 
 /* fiche de liens */
 
