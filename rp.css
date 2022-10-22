@@ -47,7 +47,7 @@ margin:0px;}
 .redinfo h2{ background-color:#f0f0f0; }
 
 .redflex2{ display:flex; justify-content:space-between; }
-.redhis{ width:70%; margin-right:5px; }
+.redhis{ width:70%; }
 .redhis span{ height:380px; }
 .redhimg{ width:30%; }
 .redhimg img{ width:100%; height:320px; object-fit:cover; clip-path: polygon(0% 0%, 100% 0%, 100% 86%, 50% 100%, 0% 86%);}
@@ -61,7 +61,8 @@ margin:0px;}
 
 .redscenario .redhimg img{ height:170px; } 
 .redscenario .redflex2.redverse{ flex-direction:row-reverse; }
-.redverse .redhis{ margin-right:0px; margin-left:5px; }
+.redflex2.redverse .redhis{ margin-left:5px; }
+.redflex2 .redhis{ margin-right:5px; }
 
 /* fiche de liens */
 
