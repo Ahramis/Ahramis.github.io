@@ -6,6 +6,11 @@
 .cate-descr span, .redpres *{     scrollbar-color: #A3171A #fff;
   scrollbar-width: thin; }
 
+/* Lien */
+a:hover{ color:#0099ff; }
+a:link{ color:#0000000; }
+a:visited{ color:#000000; }
+
 
 /***** FICHE DE LISTE RP PAR KOALAVOLANT ********/ 
 
