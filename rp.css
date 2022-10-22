@@ -58,8 +58,7 @@ margin:0px;}
 .redscenario .redhis span{ height:114px; }
 .redscenario .redhis h2{ background-color:#f0f0f0; }
 .redscenario .redhis h2 strong{ font-weight:normal; color:#A3171A; }
-
-.redscenario .redhimg img{ height:170px; } 
+ 
 .redscenario .redflex2.redverse{ flex-direction:row-reverse; }
 .normal{}
 .redscenario .redflex2.normal .redhis{ margin-right:5px; }
