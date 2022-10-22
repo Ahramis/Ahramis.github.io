@@ -36,21 +36,6 @@ margin:0px;}
 .redpres{ width:100%; margin:0 auto; }
 .redpres *{ box-sizing:border-box; } 
 
-/* IdentitÃ© avec CaractÃ¨re et Informations */ 
-
-.redflex1{ display:flex; justify-content:space-between;  } 
-.rediden{ background:url('https://i.servimg.com/u/f30/19/45/51/53/fondbi10.jpg'); background-position:center; background-size:cover;clip-path: polygon(0% 0%, 100% 0%, 100% 86%, 50% 100%, 0% 86%); 
-  display:flex; flex-wrap:wrap; position:relative; width:40%; height:378px; }
-.rediden:after{ position: absolute; content: ''; z-index:7;display: block; top: 0; left: 0; height: 100%; width: 100%;  background: #dedede;  
-  mix-blend-mode: hard-light;}
-.rediden span{ display:block; height:305px; overflow:auto; position:relative; z-index:99; color:var(--black;); padding:10px; }
-.rediden span strong{ color:#A3171A; font-family:'Anton', sans-serif; font-weight:normal; letter-spacing:1px; }
-
-.redireste{ width:60%; }
-.redireste > img{ width:100%; height:150px; object-fit:cover; }
-.redireste h1, .redjoueur h1{ background-color:#A3171A; font-family:'Kaushan Script', cursive; font-size:20px; color:#fff; 
-  text-align:center; padding:14px; margin:0px;}
-
 .redbloc{     width: 100%;    padding: 10px;    background-color: #f0f0f0; color:#444; }
 .redbloc span{ overflow:auto; display:block; padding:6px; }
 .redbloc h2{ margin: 5px auto;    width: 90%;    background-color: #dedede;    padding: 5px;    font-family: 'Anton', sans-serif;
@@ -62,6 +47,8 @@ margin:0px;}
 .redinfo h2{ background-color:#f0f0f0; }
 
 .redflex2{ display:flex; justify-content:space-between; }
+.redflex2 .redbloc{ margin-right:5px }
+.redflex2.redverse .redbloc{ margin-right:0px; margin-left:5px }
 .redhis{ width:70%; }
 .redhis span{ height:380px; }
 .redhimg{ width:30%; }
