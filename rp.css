@@ -1,9 +1,9 @@
   /* Ascenseur */
   
   ::-webkit-scrollbar {height:12px; width:5px; background:none; margin-right:5px;}
-::-webkit-scrollbar-thumb {background:#A3171A; height:30px; border-radius:30px;}
+::-webkit-scrollbar-thumb {background:#E1B016; height:30px; border-radius:30px;}
 ::-webkit-scrollbar-corner {background:none;}
-.cate-descr span, .redpres *{     scrollbar-color: #A3171A #fff;
+.cate-descr span, .redpres *{     scrollbar-color: #E1B016 #fff;
   scrollbar-width: thin; }
 
   
@@ -12,10 +12,10 @@
 .redpres{ width:100%; margin:0 auto; }
 .redpres *{ box-sizing:border-box; } 
 
-.redbloc{     width: 100%;    padding: 10px;    background-color: #f0f0f0; color:#444; }
+.redbloc{     width: 100%;    padding: 10px;    background-color: #CCC5B9; color:#444; }
 .redbloc span{ overflow:auto; display:block; padding:6px; }
-.redbloc h2{ margin: 5px auto;    width: 90%;    background-color: #dedede;    padding: 5px;    font-family: 'Anton', sans-serif;
-  font-weight: normal;    letter-spacing: 1px;    font-size: 15px;    text-transform: uppercase;    color: #444; }
+.redbloc h2{ margin: 5px auto;    width: 90%;    background-color: #CCC5B9;    padding: 5px;    font-family: 'Anton', sans-serif;
+  font-weight: normal;    letter-spacing: 1px;    font-size: 15px;    text-transform: uppercase;    color: #E1B016; }
 
 .redcara span, .redinfo span{ height: 180px; }
 
