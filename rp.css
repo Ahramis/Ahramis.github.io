@@ -12,10 +12,10 @@
 .redpres{ width:100%; margin:0 auto; }
 .redpres *{ box-sizing:border-box; } 
 
-.redbloc{     width: 100%;    padding: 10px;    background-color: #403d39; color:#444; }
+.redbloc{     width: 100%;    padding: 10px;    background-color: #403d39; color:#00bcff; }
 .redbloc span{ overflow:auto; display:block; padding:6px; }
 .redbloc h2{ margin: 5px auto;    width: 90%;    background-color: #CCC5B9;    padding: 5px;    font-family: 'Anton', sans-serif;
-  font-weight: normal;    letter-spacing: 1px;    font-size: 15px;    text-transform: uppercase;    color: #00bcff; }
+  font-weight: normal;    letter-spacing: 1px;    font-size: 15px;    text-transform: uppercase;    color: #252422; }
 
 .redflex2{ display:flex; justify-content:space-between; }
 .redhis{ width:70%; }
@@ -34,10 +34,6 @@
 .normal{}
 .redscenario .redflex2.normal .redhis{ margin-right:5px; }
 .redscenario .redflex2.redverse .redhis{ margin-left:5px; }
-
-/* Liens */
-
-.redscenario .redliens strong{ font-weight:normal; color:#E1B016; font-family:'Anton', sans-serif; }
 
 
 
