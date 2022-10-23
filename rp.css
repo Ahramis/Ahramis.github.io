@@ -21,7 +21,7 @@
 .redhis{ width:70%; }
 .redhis span{ height:380px; }
 .redhimg{ width:30%; }
-.redhimg img{ width:100%; height:100%; object-fit:contain; border:2px solid #252422; }
+.redhimg img{ width:100%; height:100%; object-fit:cover; border:2px solid #252422; }
 
 /* Scenarios */ 
 
