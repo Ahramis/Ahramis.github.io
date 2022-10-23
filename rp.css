@@ -15,7 +15,7 @@
 .redbloc{     width: 100%;    padding: 10px;    background-color: #403d39; color:#444; }
 .redbloc span{ overflow:auto; display:block; padding:6px; }
 .redbloc h2{ margin: 5px auto;    width: 90%;    background-color: #CCC5B9;    padding: 5px;    font-family: 'Anton', sans-serif;
-  font-weight: normal;    letter-spacing: 1px;    font-size: 15px;    text-transform: uppercase;    color: #252422; }
+  font-weight: normal;    letter-spacing: 1px;    font-size: 15px;    text-transform: uppercase;    color: #00bcff; }
 
 .redflex2{ display:flex; justify-content:space-between; }
 .redhis{ width:70%; }
