@@ -5,12 +5,20 @@
 ::-webkit-scrollbar-corner {background:none;}
 .cate-descr span, .redpres *{     scrollbar-color: #E1B016 #fff;
   scrollbar-width: thin; }
+.cate-descr span, .sentipres *{     scrollbar-color: #E1B016 #fff;
+  scrollbar-width: thin; }
+.cate-descr span, .inkpres *{     scrollbar-color: #c85332 #fff;
+  scrollbar-width: thin; }
 
   
 /*Fiche de Liens */ 
 
 .redpres{ width:100%; margin:0 auto; }
 .redpres *{ box-sizing:border-box; } 
+.sentipres{ width:100%; margin:0 auto; }
+.sentipres *{ box-sizing:border-box; } 
+.inkpres{ width:100%; margin:0 auto; }
+.inkpres *{ box-sizing:border-box; } 
 
 .redbloc{     width: 100%;    padding: 10px;    background-color: #403d39; color:#fffcf2; }
 .sentibloc{     width: 100%;    padding: 10px;    background-color: #403d39; color:#fffcf2; }
