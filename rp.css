@@ -47,6 +47,8 @@
 .sentiscenario .redhis{ background-color:#403d39; } 
 .inkscenario .redhis{ background-color:#403d39; } 
 .redscenario .redhis span{ height:114px; }
+.sentiscenario .redhis span{ height:114px; }
+.inkscenario .redhis span{ height:114px; }
 .redscenario .redhis h2{ background-color:#ccc5b9; }
 .sentiscenario .redhis h2{ background-color:#ccc5b9; }
 .inkscenario .redhis h2{ background-color:#ccc5b9; }
