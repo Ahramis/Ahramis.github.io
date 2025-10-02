@@ -3,7 +3,7 @@
   ::-webkit-scrollbar {height:12px; width:5px; background:none; margin-right:5px;}
 ::-webkit-scrollbar-thumb {background:#D4DEFF; height:30px; border-radius:30px;}
 ::-webkit-scrollbar-corner {background:none;}
-.cate-descr span, .redpres *{     scrollbar-color: #D4DEFF #fff;
+.cate-descr span, .redpres *{     scrollbar-color: #D4DEFF #403d39;
   scrollbar-width: thin; }
 
   
